@@ -3,7 +3,7 @@ const projects = [
     title: "Smart Expense Tracker (MyXpenso)",
     description:
       "Created a smart finance management application that helps users track expenses, analyze spending, and get AI-based financial insights securely.",
-    image: "src/image/expense.png",
+    image: "/image/expense.png",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "bcrypt.js", "LLM"],
     live: "https://myxpenso.vercel.app/",
     github: "https://github.com/Dhiraj9021/Smart-Personal-Expenses-Tracker",
@@ -12,7 +12,7 @@ const projects = [
     title: "Vehicle Rental Website",
     description:
       "Built a website that allows users to browse, book, and manage vehicle rentals with secure authentication and real-time availability.",
-    image: "src/image/vehicle.png",
+    image: "/image/vehicle.png",
     tech: ["Node.js", "Express.js", "MongoDB", "EJS", "Bootstrap"],
     live: "https://vehicle-rent-website.onrender.com/",
     github: "https://github.com/Dhiraj9021/Vehicle-rent-Website",
@@ -21,7 +21,7 @@ const projects = [
     title: "Employee Salary Prediction",
     description:
       "ML app to predict salaries using regression models. Users input job details and get salary predictions based on data.",
-    image: "src/image/prediction.png",
+    image: "/image/prediction.png",
     tech: ["Python", "Pandas", "ML", "Streamlit"],
     live: "https://github.com/Dhiraj9021/Employee-Salary-Prediction-App-",
     github: "https://github.com/Dhiraj9021/Employee-Salary-Prediction-App-",
@@ -29,7 +29,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "Modern portfolio using React & Tailwind.",
-    image: "src/image/portfolio.png",
+    image: "/image/portfolio.png",
     tech: ["React.js", "Tailwind", "MongoDB"],
     live: "#",
     github: "#",

@@ -200,7 +200,7 @@ export default function HomeSection() {
 
           {/* Image */}
           <img
-            src="src/image/circle1.png"
+            src="/image/profile.png"
             alt="Dhiraj Patil"
             className="w-[85%] h-[85%] object-cover rounded-full z-10"
           />
