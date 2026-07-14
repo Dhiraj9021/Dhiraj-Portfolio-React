@@ -50,7 +50,7 @@ export default function Resume() {
 
               {/* Logo */}
               <img
-                src="/internship.png"
+                src="/image/internship.png"
                 alt="Infosys"
                 className="w-12 h-12 rounded-lg object-contain bg-white p-1"
               />
